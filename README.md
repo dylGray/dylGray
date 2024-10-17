@@ -4,7 +4,7 @@ I'm currently in my senior year at Indiana University, studying Informatics with
 
 🌱 A Bit About Me
 
-I'm focused on learning and applying AI to real-world projects, with a strong interest in how technology can improve people's lives. I'm diving into topics like data analysis and full-stack development while sharpening my skills in JavaScript and React. Outside of coding, I enjoy gaming, hitting the gym, fishing, and snowboarding.
+I'm focused on learning and applying AI to real-world projects, with a strong interest in how technology can improve people's lives. I'm diving into topics like UI/UX design and full-stack development while sharpening my skills in JavaScript and React. Outside of coding, I enjoy gaming, hitting the gym, fishing, and snowboarding.
 
 💻 What I'm Up To
 
@@ -12,4 +12,4 @@ Currently, I'm contributing to AI tools that help sales teams make informed deci
 
 📫 Let's Connect
 
-Feel free to connect with me here or reach out via email: dylan.gray@revenuepathgroup.com. I'm also open to collaborating on exciting tech projects or contributing to open source—let's make something amazing together!
+Feel free to connect with me here or reach out via email: dylan.gray@revenuepathgroup.com
