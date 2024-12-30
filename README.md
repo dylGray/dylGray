@@ -9,3 +9,4 @@ I'm focused on learning and applying AI to real-world projects, with a strong in
 📫 Let's Connect
 
 Feel free to connect with me here or reach out via email: dylan.gray@revenuepathgroup.com
+Or let's connect on [LinkedIn](https://www.linkedin.com/in/dylan-gray-255107217/)
